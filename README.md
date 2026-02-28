@@ -1,5 +1,5 @@
 # CV
-My CV, This is my cv here 
 
-[Click This]
+![My Cv](/CV_Images/CV_pg1.png)
+![My Cv](/CV_Images/CV_pg2.png)
 
