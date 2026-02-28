@@ -1,4 +1,4 @@
-# CV
+# Kyle German
 
 View my LinkedIn profile [here](https://www.linkedin.com/in/kyle-german-3101222a5)
 
